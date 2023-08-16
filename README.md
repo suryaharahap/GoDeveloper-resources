@@ -9,13 +9,19 @@
 
 Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but also has memory safety, garbage collection, structural typing, and CSP-style concurrency. [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 
-## 📚 Reference
+## 📚 Reference :
+
 - Official Go Documentation
   &#8595; 
   - The official documentation for the Go programming language is an invaluable resource. It provides detailed information about the language's syntax, standard libraries, and tools. You can find it at the official [Go website](https://golang.org/doc/)
 - Step by step guide to becoming a Go developer from [Roadmap.sh](https://roadmap.sh/golang)
 - 📗Ebook website from Indonesia @novalagung [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
 - Ultimate Go: Web Services with Kubernetes [Youtube Channel Playlist Ardan Labs](https://www.youtube.com/watch?v=W75NByuiyMI&list=PLADD_vxzPcZAD6gg2mvvU8JT4JGkbaCHg&ab_channel=ArdanLabs)
+
+
+## Optional:
+
+- Golang Project [Lab Mexico](https://career.softserveinc.com/en-us/technology/course/golang-project-lab-mx)
 
 ## ❤️ Contributing
 Feel free to contribute!! This repo is yours.
