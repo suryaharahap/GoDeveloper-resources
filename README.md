@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📕 Go Developer Journey Resources</h1>
+  <h1><img src="https://github.com/suryaharahap/GoDeveloper-resources/blob/main/assets/logogolang.png" width="30px"> Go Developer Journey Resources</h1>
   <strong>Documentation for learn Golang Developer</strong><br>
   <strong>Learn to become a Go developer. 🥳 </strong>
 </div>
